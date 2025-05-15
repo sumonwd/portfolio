@@ -113,7 +113,7 @@ export default function ViewProject({ projectId }) {
       </header>
 
       {/* Hero Section */}
-      <section className="pt-24 pb-12 px-4">
+      <section className="pt-24 pb-12 px-4 mt-16">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-8">
             <span className="text-sm text-indigo-600 dark:text-indigo-400 font-medium">

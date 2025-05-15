@@ -70,7 +70,7 @@ export default function Portfolio() {
   };
 
   return (
-    <div className="bg-gray-50 dark:bg-slate-950 text-gray-900 dark:text-white min-h-screen overflow-hidden transition-colors">
+    <div className="bg-gray-50 dark:bg-slate-950 text-gray-900 dark:text-white min-h-screen overflow-hidden transition-colors ">
       {/* Animated Background - only render when mounted */}
       {isMounted && (
         <div
@@ -161,7 +161,7 @@ export default function Portfolio() {
       {/* Hero Section */}
       <section
         id="home"
-        className="min-h-screen flex items-center justify-center px-4"
+        className="min-h-screen flex items-center justify-center px-4 "
       >
         <div className="text-center max-w-3xl mx-auto">
           <div className="mb-8">
